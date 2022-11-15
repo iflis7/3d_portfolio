@@ -1,2 +1,2 @@
 # 3d_portfolio
-Website using three.js 
+Portfolio website with 3D animations using three.js 
